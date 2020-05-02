@@ -10,6 +10,7 @@
     "smarttabs": false, // Suppresses warnings about mixed tabs and spaces,
     "globalstrict": true,
     "-W030": true,
+    "esnext": true,
     "globals": { // Globals variables.
         "describe": true,
         "it": true,
