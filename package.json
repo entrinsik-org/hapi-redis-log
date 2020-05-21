@@ -1,6 +1,6 @@
 {
   "name": "ent-hapi-redis-log",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Good -> Redis logging stream",
   "main": "lib/index.js",
   "directories": {
